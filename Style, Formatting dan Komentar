@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<HTML lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styling - Zidni Ilma</title>
+    </head>
+    <body>
+        <h3 style="color: midnightblue">Style dan Format HTML</h3>
+
+        <p style="background-color:cyan; color:white"> CSS Preprocessor adalah alat yang memperluas kemampuan CSS biasa dengan menambahkan fitur-fitur
+            seperti variabel, nesting, mixin, dan fungsi.
+            Ini memungkinkan kita menulis kode CSS yang lebih modular, terorganisir, dan mudah dipelihara.
+            Hasil akhir dari preprocessor ini tetap berupa CSS biasa yang dapat dibaca oleh browser.</p>
+
+        <p style="color:rgb(72, 131, 156)">Dalam HTML, spesifikasi warna dapat menggunakan RGB values,
+            HEX values, HSL values, RGBA values, and HSLA values.</p> 
+          
+        <h3 style="color:darkgreen">Formatting List HTML</h3>
+        <ol type="a" start="4">
+            <li>Mangga</li>
+            <li>Apel</li>
+            <li>Strawberry</li>
+            <li>Jeruk</li>
+        </ol>
+
+        <ul type="square">
+            <li>Mangga</li>
+            <li>Apel</li>
+            <li>Strawberry</li>
+            <li>Jeruk</li>
+        </ul>
+
+        <dl>
+            <dt>Nama Buah</dt>
+            <dd>Mangga, Apel, Strawwberry, Jeruk</dd>
+        </dl>
+        
+        <!-- teks berwarna hijau ini adalah komentar -->
+    
+    </body>
+</HTML>
