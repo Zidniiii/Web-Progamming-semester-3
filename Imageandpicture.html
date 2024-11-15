@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image - Zidni Ilma</title>
+</head>
+<body>
+    <img src="cassettetape.jpeg" alt="cassette tape with white flower"  width="600" height="500">
+<!-- untuk image pertama dapat disisipkan melalui file explorer dalam satu folder sama kemudian baru sisipkan dalam kode html dengan format "file.jpeg" --> 
+    <picture>
+        <source media="(min-width: 768px)" srcset="cassettetape.jpeg">
+        <source media="(min-width: 480px)" srcset="cassettetape.jpg">
+        <img src="cassettetape.jpeg" alt="cassette tape">
+    </picture>
+</body>
+</html>
