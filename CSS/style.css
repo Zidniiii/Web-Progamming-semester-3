@@ -1,0 +1,22 @@
+h1 {
+    color: darkblue;
+    font-size: 24px; /*Ini contoh komentar*/
+    background-color: beige; /*
+    Selama belum ada tanda penutup maka komentar belum tertutup*/
+}
+p {
+    color: green;
+    font-size: 16px;
+}
+
+#kotak-merah {
+    background-color: red; /* Ini contoh ID di CSS */
+    width: 200px;
+    height: 50px;
+}
+
+.kotak {
+    border: 1px solid black;
+    padding: 10px;
+}
+
